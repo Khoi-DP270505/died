@@ -1,0 +1,4 @@
+username,password,balance,is_admin
+admin,admin123,100000,True
+user1,password1,50000,False
+khoi270505,khoi270505,0,False
